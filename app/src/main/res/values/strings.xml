@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LunchList</string>
+    <string name="save">save</string>
+    <string name="address">address</string>
+</resources>
